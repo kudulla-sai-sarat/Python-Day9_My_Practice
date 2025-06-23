@@ -37,5 +37,3 @@ while continue_bidding:
         find_highest_bidder(user_dict)
     elif should_continue == "yes":
         print("\n" * 20)
-
-
